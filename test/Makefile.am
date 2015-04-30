@@ -1,4 +1,4 @@
-CXXFLAGS = -W -Wall
+AM_CXXFLAGS = -W -Wall
 LIBS = ../libbignumfact/.libs/libbignumfact.a
 
 bin_PROGRAMS = test
